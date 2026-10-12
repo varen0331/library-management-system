@@ -37,7 +37,23 @@ late fines, and supports role-based login (Admin / Student).
 Run `mvn test`, or right-click the test folder in IntelliJ and choose Run.
 
 ## Screenshots
-(Screenshots coming soon)
+### Admin menu
+![Admin menu](screenshots/admin-menu.png)
+
+### Book list
+![Books](screenshots/books.png)
+
+### Overdue report
+![Overdue](screenshots/overdue.png)
+
+### Return with late fine
+![Return with fine](screenshots/return-fine.png)
+
+### Issue a book
+![Issue](screenshots/issue.png)
+
+### Student menu (role-based access)
+![Student menu](screenshots/student-menu.png)
 
 ## Author
 Varenya Palaka
